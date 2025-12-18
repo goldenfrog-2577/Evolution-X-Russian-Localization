@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_assistant_name">Открыть ассистента</string>
+    <string name="action_camera_name">Открыть камеру</string>
+    <string name="action_flashlight_name">Включить/выключить фонарик</string>
+    <string name="action_launch_name">Запустить приложение</string>
+    <string name="action_media_name">Воспроизведение/пауза</string>
+    <string name="action_mute_name">Отключить звонки и уведомления</string>
+    <string name="action_notifications_name">Открыть шторку уведомлений</string>
+    <string name="action_overview_name">Открыть список недавних</string>
+    <string name="action_power_menu_name">Открыть меню питания</string>
+    <string name="action_screen_name">Включить/выключить экран</string>
+    <string name="action_screenshot_name">Сделать скриншот</string>
+    <string name="app_picker_dialog_title">Выберите приложение</string>
+    <string name="app_select_title">Выбор приложения</string>
+    <string name="gesture_detected">Двойное касание распознано</string>
+    <string name="launch_app_select_summary">Выберите приложение для запуска двойным касанием</string>
+    <string name="pref_title_haptic_intensity">Сила виброотклика</string>
+    <string name="setting_action_title">Выбор действия при распознавании жеста</string>
+    <string name="setting_enabled_title">Использовать двойное касание</string>
+    <string name="setting_footer_content">Чтобы выполнить действие, дважды постучите по задней части телефона примерно посередине</string>
+    <string name="setting_screen_off_blocked_summary">Недоступно для выбранного действия</string>
+    <string name="setting_screen_off_summary">Может повысить число ложных срабатываний</string>
+    <string name="setting_screen_off_title">Разрешить при выключенном экране</string>
+    <string name="setting_sensitivity_heavy">Сильнее</string>
+    <string name="setting_sensitivity_light">Легче</string>
+    <string name="setting_sensitivity_title">Чувствительность</string>
+    <string name="settings_entry_summary_off">Выключено</string>
+    <string name="settings_entry_summary_on">Включено / %1$s</string>
+    <string name="settings_entry_title">Двойное касание</string>
+    <string name="settings_search_keywords">двойное касание, касание, постукивание, жест, ассистент</string>
+</resources>
